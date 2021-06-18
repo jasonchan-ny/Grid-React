@@ -1,4 +1,4 @@
-# Bank of React
+# Grid React
 
 ---
 
