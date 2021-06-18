@@ -5,7 +5,7 @@ import {Table} from './components';
 function App() {
     return (
     <div className = "App">
-      <h2>Assignment #8</h2>
+      <h2>Grid React</h2>
       <Table className = "table-class"/>
     </div>
     )
